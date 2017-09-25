@@ -17,7 +17,8 @@ function destructivelyAddElementToBeginningOfArray(array,x){
 }
 
 function addElementToEndOfArray(array,x) {
- return [array,...x]
+  [array,...x]
+  return array
 }
 
 function destructivelyAddElementToEndOfArray(array,x){
