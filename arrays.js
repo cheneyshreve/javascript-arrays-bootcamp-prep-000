@@ -4,3 +4,11 @@ chocolateBars = [
   'kitkat',
   'skittles'
 ]
+
+function addElementToBeginningOfArray() {
+  
+}
+
+function addElementToEndOfArray(){
+  
+}
