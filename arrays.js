@@ -5,7 +5,7 @@ chocolateBars = [
   'skittles'
 ]
 
-array = [1,2,3,4,5]
+myArray = [1,2,3,4,5]
 
 function addElementToBeginningOfArray(array,x) {
  return [x,...array]
